@@ -1,12 +1,14 @@
 .odd{
     background-color: #ff96befd;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.second{
+#second{
     color: #0066fffd;
     font-size: 32px;
 }
 
+/* I use grouping selector in this one */ 
+/* but you can also create a new class and reuse it to avoid duplicate code */
 .third,
 .four{
     font-size: 24px;
