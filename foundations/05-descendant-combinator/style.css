@@ -1,0 +1,15 @@
+/* This one is just using class */
+/* .container .text{
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* This one is using class combine with type selector */
+.container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
